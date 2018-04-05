@@ -1,0 +1,16 @@
+name: Adventurers
+main: io.github.justincqz.adventurers.Adventurers
+version: 0.0.1-SNAPSHOT
+author: Nizja
+commands:
+  adventurers:
+    description: The root command for all other functions.
+    usage: /<command> <command> [args..]
+    permission: <plugin name>
+    permission-message: MySquad is not enabled for you.
+
+  adv:
+      description: The root command for all other functions.
+      usage: /<command> <command> [args..]
+      permission: <plugin name>
+      permission-message: MySquad is not enabled for you.
